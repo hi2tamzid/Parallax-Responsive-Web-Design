@@ -1,0 +1,62 @@
+/* --------------- */
+/* Pre-defined CSS */
+/* --------------- */
+
+.text-center{
+  text-align: center;
+}
+
+.a-unstyle{
+  text-decoration: none;
+}
+
+.list-unstyle{
+  list-style-type: none;
+}
+
+.flex{
+  display: flex;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.justify-between{
+  justify-content: space-between;
+}
+
+.align-center{
+  align-items: center;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+.img-fluid{
+  width: 100%;
+}
+
+.container{
+  width: 95%;
+}
+
+.width-full{
+  width: 100%;
+}
+
+.bd{
+  border: 1px solid blue;
+}
+.bg{
+  background-color: #3498db;
+}
+
+.btn:active{
+  transform: scale(0.98);
+}
+
+.btn:focus{
+  outline: 0;
+}
